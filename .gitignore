@@ -1,0 +1,66 @@
+## .NET Core
+bin/
+obj/
+out/
+
+# Build results
+*.exe
+*.dll
+*.app
+*.so
+*.dylib
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio and VS Code
+.vscode/
+.vs/
+*.code-workspace
+
+# Rider
+.idea/
+
+# ASP.NET Core secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/secrets.json
+
+# Logs
+*.log
+logs/
+log/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Entity Framework
+Migrations/
+
+# Others
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Test results
+TestResults/
+coverage/
+
+# Docker-related (if using)
+docker-compose.override.yml
+.env
+
+# OS-specific
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Ignore global.json lock (optional)
+global.json.lock

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TymeApi.API", "TymeApi.API\TymeApi.API.csproj", "{BA250400-F972-4B47-9B74-35D560146012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TymeApi.Application", "TymeApi.Application\TymeApi.Application.csproj", "{6D776B7F-0899-4913-8187-B133DA6153F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TymeApi.Domain", "TymeApi.Domain\TymeApi.Domain.csproj", "{D0D392DF-7C94-45DD-BEA5-FFC1AB64B90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TymeApi.Infrastructure", "TymeApi.Infrastructure\TymeApi.Infrastructure.csproj", "{55C8011B-5E93-419C-BA47-98FB611507CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TymeApi.Persistence", "TymeApi.Persistence\TymeApi.Persistence.csproj", "{CF9E81CE-5C9D-43EC-9B47-7173AF71B252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA250400-F972-4B47-9B74-35D560146012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA250400-F972-4B47-9B74-35D560146012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA250400-F972-4B47-9B74-35D560146012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA250400-F972-4B47-9B74-35D560146012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D776B7F-0899-4913-8187-B133DA6153F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D776B7F-0899-4913-8187-B133DA6153F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D776B7F-0899-4913-8187-B133DA6153F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D776B7F-0899-4913-8187-B133DA6153F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D392DF-7C94-45DD-BEA5-FFC1AB64B90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D392DF-7C94-45DD-BEA5-FFC1AB64B90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D392DF-7C94-45DD-BEA5-FFC1AB64B90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D392DF-7C94-45DD-BEA5-FFC1AB64B90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C8011B-5E93-419C-BA47-98FB611507CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C8011B-5E93-419C-BA47-98FB611507CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C8011B-5E93-419C-BA47-98FB611507CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C8011B-5E93-419C-BA47-98FB611507CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9E81CE-5C9D-43EC-9B47-7173AF71B252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9E81CE-5C9D-43EC-9B47-7173AF71B252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9E81CE-5C9D-43EC-9B47-7173AF71B252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9E81CE-5C9D-43EC-9B47-7173AF71B252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

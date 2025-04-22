@@ -1,0 +1,6 @@
+@TymeApi.API_HostAddress = http://localhost:5250
+
+GET {{TymeApi.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
